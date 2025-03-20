@@ -1,0 +1,8 @@
+table tr:nth-child(even){
+    border color: #979696;
+    
+    }
+}
+th{
+    background-color: #c223bc;
+}
